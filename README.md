@@ -6,4 +6,5 @@
 - AutoComplete: Gợi ý địa chỉ còn khuyết thiếu dựa trên từ khóa có sẵn.
 - GeoCode: Tìm vị trí chính xác của địa chỉ được người dùng lựa chọn.
 
-Video demo: ![vận hành ứng dụng](https://photos.app.goo.gl/U3vWbunE9UKFZcnN6)
+Hình ảnh demo: ![vận hành ứng dụng](https://photos.app.goo.gl/FUTd9xcuTu3DZ9hT7)
+Video demo:  [![vận hành ứng dụng](https://photos.app.goo.gl/DYzmfTtCMaMJQrYH9)](https://photos.app.goo.gl/U3vWbunE9UKFZcnN6)
